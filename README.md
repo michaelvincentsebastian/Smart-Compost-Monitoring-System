@@ -37,7 +37,7 @@ Smart-Compost-Monitoring/
 
 ## 📊 Sample Visual Insights
 
-**Monthly Reports** (example-output.png)
+![Project Dashboard](example-output.png)
 
 ---
 
