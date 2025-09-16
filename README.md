@@ -4,7 +4,7 @@ This project presents an IoT-based compost monitoring system developed to automa
 
 ---
 
-🗂️ **Dataset**: Historical compost temperature and humidity data, stored in **Google Sheets**[https://docs.google.com/spreadsheets/d/1lisEESwTWg-lHCll2W5_Ch30QqpX6EexbYzBV8LYaEM/edit?usp=sharing].
+🗂️ **Dataset**: Historical compost temperature and humidity data, stored in **Google Sheets** [https://docs.google.com/spreadsheets/d/1lisEESwTWg-lHCll2W5_Ch30QqpX6EexbYzBV8LYaEM/edit?usp=sharing].
 
 🛠️ **Tools Used**: **ESP32** (Microcontroller), **DHT22** (Sensor), **Google Apps Script**, **Google Sheets**, **Gemini 2.0 Flash** (AI Model), **Telegram Bot**.
 
