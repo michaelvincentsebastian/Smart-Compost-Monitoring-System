@@ -16,6 +16,7 @@ This project presents an IoT-based compost monitoring system developed to automa
 
 ## 🗃️ Project Structure
 
+```directory
 Smart-Compost-Monitoring/
 ├── ESP32/
 │ └── main.ino
@@ -23,6 +24,32 @@ Smart-Compost-Monitoring/
 │ └── code.gs
 ├── .gitattributes
 └── README.md
+```
+
+---
+
+## ⚙ Workflow
+
+### 1. Data Collecting 📥
+
+```text
+1. Capture Temperature and Humidity with DHT22 Sensors
+2. 
+```
+
+### 2. Data Processing 💡
+
+```text
+1. Capture Temperature and Humidity with DHT22 Sensors
+2. 
+```
+
+### 3. Data Summarizing 📝
+
+```text
+1. Capture Temperature and Humidity with DHT22 Sensors
+2. 
+```
 
 ---
 
